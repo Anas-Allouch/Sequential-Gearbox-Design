@@ -16,5 +16,3 @@ target safety factor of ~1.1-1.3 for gears
 
 ## Tools Used
 SolidWorks • AutoCAD • Excel • MATLAB • Shigley’s MED • AGMA standards
-
-## 📂 Repository Structure
