@@ -1,6 +1,6 @@
 # Sequential Gearbox Design
 
-This project presents the complete design and analysis of a 6-speed sequential gearbox for a high-performance vehicle.
+This project presents the complete design and analysis of a 5-speed sequential gearbox for a high-performance vehicle.
 
 ## Project Overview
 - Shaft and gear design using Shigley’s *Mechanical Engineering Design* (metric units).
@@ -11,7 +11,7 @@ This project presents the complete design and analysis of a 6-speed sequential g
 - Detailed technical drawings in AutoCAD.
 
 ## Key Results
-- Target safety factor of 1.5 on shafts.
+- Target safety factor of 1.5 for shafts.
 - Target safety factor of ~1.1-1.3 for gears.
 
 ## Tools Used
