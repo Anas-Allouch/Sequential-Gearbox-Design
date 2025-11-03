@@ -20,7 +20,7 @@ It includes all engineering calculations, modeling, and verification steps based
 ## Tools & References
 
 ### Software
-- **SolidWorks:** 3D modeling of gears, shafts, and gearbox assembly; interference and fit verification.  
+- **SolidWorks:** 3D modeling of gears, shafts, and gearbox assembly.  
 - **MATLAB:** analytical calculations, torque and moment diagrams, fatigue and stress analysis automation.  
 - **AutoCAD:** creation of final 2D technical drawings and detailed dimensioning sheets.  
 - **Excel:** tabulated design data, safety factor summaries, and calculation sheets.
