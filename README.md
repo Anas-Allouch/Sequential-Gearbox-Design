@@ -19,13 +19,13 @@ It includes all engineering calculations, modeling, and verification steps based
 
 ## Tools & References
 
-### 🛠️ Software
+### Software
 - **SolidWorks:** 3D modeling of gears, shafts, and gearbox assembly; interference and fit verification.  
 - **MATLAB:** analytical calculations, torque and moment diagrams, fatigue and stress analysis automation.  
 - **AutoCAD:** creation of final 2D technical drawings and detailed dimensioning sheets.  
 - **Excel:** tabulated design data, safety factor summaries, and calculation sheets.
 
-### 📚 References
+### References
 - *Shigley’s Mechanical Engineering Design* — design methodology, fatigue and stress concentration analysis.  
 - *Guide du Dessinateur Industriel (Chevalier)* — dimensional standards, tolerances, and technical drawing practices.  
 - *Machinery’s Handbook* — complementary reference for mechanical design data and standard dimensions.
