@@ -1,4 +1,4 @@
-# General Design Constants – First Complete Acceptable Design
+# General Design Constants
 
 ## Gear Geometry
 
