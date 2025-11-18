@@ -21,6 +21,19 @@ This directory therefore serves as:
   failed early designs into a structured, technically valid gearbox
   model.
 
+## Notes on Excel Tables
+
+The Excel files in `02_Excel_Calculations` are **raw engineering 
+worksheets**, not formatted reports. They store:
+- intermediate values used by MATLAB scripts,
+- extracted forces and geometries,
+- safety factors calculated using MATLAB,
+- and other working data.
+
+Their purpose is to support calculations, not to present final, polished
+tables. Clean, validated versions of these data sets will be produced in a
+later stage once the full design is refined.
+
 ## Notes on CAD Models
 SolidWorks part models and technical drawings are **not yet finalized**.
 They will be developed once all dimensions, stresses, safety factors, and
