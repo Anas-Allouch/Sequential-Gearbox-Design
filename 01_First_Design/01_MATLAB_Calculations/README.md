@@ -1,7 +1,7 @@
 # MATLAB Calculations (Initial Design Phase)
 
 This directory contains the MATLAB modules used during the first design
-iteration of the sequential gearbox project. Each sub-folder corresponds
+of the sequential gearbox project. Each sub-folder corresponds
 to a specific analysis task (gear forces, moment diagrams, shaft stresses, etc.).
 
 The scripts and functions here are **not optimized** and **not intended
