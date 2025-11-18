@@ -1,7 +1,7 @@
 function res = OutputShaft( range_Fy, range_Fz, features_range, torque )
 scriptPath = mfilename('fullpath');
 [scriptDir, ~, ~] = fileparts(scriptPath);
-excelDir = fullfile(scriptDir, '..', '..', '02_Excel_Calculations');
+excelDir = fullfile(scriptDir, '..', '..', '02_Excel_Tables');
 
 File_F = fullfile(excelDir, 'output shaft forces.xlsx');
 Fy = xlsread(File_F, 1, range_Fy);
@@ -32,3 +32,4 @@ ylim([0 3000]);
 res = [max_Mxy max_Mxz];
 
 end
+
