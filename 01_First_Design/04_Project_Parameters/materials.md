@@ -19,8 +19,8 @@ used in the shaft stress and fatigue calculations (e.g. Goodman).
 - **Heat treatment:** Case hardened  
   - Surface hardness: 56–60 HRC (≈ 600 HB)  
   - Core hardness: 38–42 HRC  
-- **Ultimate tensile strength (case):** 1000–1300 MPa  
-- **Yield strength (case):** 800–1000 MPa  
+- **Ultimate tensile strength:** 1000–1300 MPa  
+- **Yield strength:** 800–1000 MPa  
 - **Bending fatigue strength, S_c:** 1650 MPa  
 - **Contact fatigue strength, S_t:** 520 MPa  
 - **Modulus of elasticity, E:** 205 GPa  
