@@ -1,6 +1,6 @@
 # Sequential Gearbox Design
 
-This project presents the complete design and analysis of a 5-speed sequential gearbox for a high-performance vehicle.
+This project presents the complete design and analysis of a 5-speed sequential gearbox for a rally car.
 
 ## Project Scope & Contents
 
