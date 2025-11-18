@@ -1,8 +1,8 @@
-# First Acceptable Design – Initial Iteration
+# First Acceptable Design
 
 This folder contains the first **acceptable and technically coherent**
-design iteration of the sequential gearbox project. It was created after
-multiple early design attempts that revealed significant issues, missing
+design of the sequential gearbox project. It was created after multiple 
+early design attempts that revealed significant issues, missing
 information, or incorrect assumptions. These early failures were essential
 for building a solid understanding of the constraints and requirements of
 a real multi-speed gearbox.
