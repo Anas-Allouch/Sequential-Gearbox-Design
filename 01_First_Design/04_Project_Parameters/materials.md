@@ -9,7 +9,7 @@
 
 This material is used for the gearbox shafts in this first complete
 acceptable design. These mechanical properties are the reference values
-used in the shaft stress and fatigue calculations (e.g. Goodman).
+used in the shaft stress and fatigue calculations.
 
 ---
 
