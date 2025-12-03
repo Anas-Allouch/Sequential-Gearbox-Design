@@ -1,4 +1,4 @@
-# Architecture V1 — Review and Findings
+# Architecture V1 - Review and Findings
 This folder documents the **first complete gearbox architecture** of the project, including:
 - Input shaft
 - Output shaft
