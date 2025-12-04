@@ -47,6 +47,11 @@ Contains the MATLAB work used during the Architecture V1 review.
 #### **modified_scripts/**
 #### **new_scripts/**
 
+### **05_Safety_Factors_V1/**
+Contains a table representing the safety factors that were calculated and resulted in a failed design.
+It does not contain the equations and calculation details, but the results and some dimensions used.
+it shows the failure points and some notes.
+
 ## Summary of V1 Findings
 
 ### **Key issues identified:**
