@@ -88,18 +88,23 @@ it shows the failure points and some notes.
 - Designing all gearbox parts in SolidWorks (full parts + complete V1 assembly)
 
 ## Why I Made This Folder
-- To document the first complete gearbox architecture (V1), even though the design ultimately proved unviable  
-- To clearly show the full concept assembly and the work completed before identifying its limitations  
-- To demonstrate my SolidWorks modeling skills through fully created parts and assemblies  
-- To validate the design visually in 3D and step beyond purely analytical calculations  
-- To identify problems that are not visible in numerical analysis alone, such as assembly feasibility, mounting constraints, and geometric conflicts  
-- To keep a transparent record of the shortcomings discovered in Architecture V1 before transitioning to a corrected and improved design  
+- To document the first complete gearbox architecture (V1), even though the design ultimately proved unviable
+- To clearly show the full concept assembly and the work completed before identifying its limitations
+- To demonstrate my SolidWorks modeling skills through fully created parts and assemblies
+- To validate the design visually in 3D and step beyond purely analytical calculations
+- To identify problems that are not visible in numerical analysis alone, such as assembly feasibility, mounting constraints, and geometric conflicts
+- To keep a transparent record of the shortcomings discovered in Architecture V1 before transitioning to a corrected and improved design
 
 ## Next Step
-- Begin redesigning the output shaft to address the keyseat, stress concentration, and assembly issues identified in V1  
-- Rebuild the dog-hub interface with improved geometry and safer torque transmission  
-- Ensure that the new design achieves the desired safety factors (≥ 1.5) for all torque-transmitting features  
-- Validate whether modifying only the output shaft is sufficient to resolve the limitations  
-- If required, extend the redesign to include both the input and output shafts  
-- Integrate all lessons learned from V1 regarding splines, keys, dog engagement, manufacturability, and assembly feasibility  
-- Develop Architecture V2 as a corrected and more robust version of the gearbox design  
+- Begin redesigning the output shaft to address the keyseat, stress concentration, and assembly issues identified in V1
+- Rebuild the dog-hub interface with improved geometry and safer torque transmission
+- Ensure that the new design achieves the desired safety factors (≥ 1.5) for all torque-transmitting features
+- Validate whether modifying only the output shaft is sufficient to resolve the limitations
+- If required, extend the redesign to include both the input and output shafts
+- Integrate all lessons learned from V1 regarding splines, keys, dog engagement, manufacturability, and assembly feasibility
+- Develop Architecture V2 as a corrected and more robust version of the gearbox design
+
+
+## Important Note
+Regarding the equations used, simplifications, asumptions and all details, they won't be shown until the final report is done.
+This report will be done once everything is checked, and the design is acceptable, meaning no failure at at any point in the whole gearbox.
