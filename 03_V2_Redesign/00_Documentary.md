@@ -1,7 +1,7 @@
 ## 1. Gears Specs
 So first of all, we need to pose our gear ratios and check their conformity with desired car speed and torque at wheel. Another condition to check, is the center distance which all should respect.  
 
-For this step, and after multiple checks and iterations, i got these gears setup:
+For this step, and after multiple checks and iterations, i got these gears setup:  
 
 | gear    | module | number of teeth - input gear | number of teeth - output gear |  ratio   | center distance [Nm] |
 |---------|--------|------------------------------|-------------------------------|----------|----------------------|
@@ -62,7 +62,7 @@ time fraction per gear;
 average rotation speed;  
 
  - For reliability we will go with 0.9 because we are not making an industrial gearbox that will be running for a long time.
- - time fraction per gear, we will assume a balanced mixed use between aggressive off road, rally-ish use and normal cruising. So time fraction per gear can be presented like the following
+ - time fraction per gear, we will assume a balanced mixed use between aggressive off road, rally-ish use and normal cruising. So time fraction per gear can be presented like the following:  
 | gear   |   time fraction |
 |--------|-----------------|
 |	gear 1 |       0.1       |
