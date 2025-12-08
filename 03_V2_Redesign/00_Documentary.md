@@ -84,4 +84,4 @@ After consulting the catalogues, i chose to use the following bearings:
 - NUP 207 ECP: bore diameter 35 mm - width 17 mm - load rating C = 56 KN  
 - NUP 208 ECP: bore diameter 40 mm - width 18 mm - load rating C = 62 KN  
 
-And no this over design is not for nothing, first it is for the shaft diameter requirement for later shaft fatigue analysis.
+And no this over design is not for nothing, it is for the shaft diameter requirement for later shaft fatigue analysis.
