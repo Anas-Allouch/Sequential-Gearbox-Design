@@ -63,8 +63,8 @@ average rotation speed;
 
  - For reliability we will go with 0.9 because we are not making an industrial gearbox that will be running for a long time.
  - time fraction per gear, we will assume a balanced mixed use between aggressive off road, rally-ish use and normal cruising. So time fraction per gear can be presented like the following:  
-| gear   |   time fraction |
-|--------|-----------------|
+|   gear   |   time fraction |
+|----------|-----------------|
 |	gear 1 |       0.1       |
 |	gear 2 |       0.2       |
 |	gear 3 |       0.2       |
