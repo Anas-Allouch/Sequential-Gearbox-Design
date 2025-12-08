@@ -85,3 +85,17 @@ After consulting the catalogues, i chose to use the following bearings:
 - NUP 208 ECP: bore diameter 40 mm - width 18 mm - load rating C = 62 KN  
 
 And no this over design is not for nothing, it is for the shaft diameter requirement for later shaft fatigue analysis.
+
+---
+
+From this step forward, it will be hard to document as before since it is basically calculations everywhere. From shaft fatigue analysis to gears analysis all over to keys analysis.
+I will show the outline of what will be done after that.
+
+1. initial input and output shaft designs according to standards. A quick note: the output gears are gonna be installed on needle bearings to allow free movement and individual gear engagement
+2. shaft fatigue analysis on the designs made: applying shaft fatigue failure criteria including Goodman, Gerber, Soderberg and ASME elliptic at different features of the shaft (grooves, shoulders, keyways and seats)
+3. after checking and getting acceptable values for safety factors we move one to gears analysis: failure in bending and contact according to AGMA ways
+4. after also getting acceptable values for gears, we can now jump to keys safety factors checking: failure by shear and by crushing
+5. now comes the step of design the dog clutches: choosing the right number of dogs, the right thickness and width
+6. last step is checking the keys and/or splines that are presented at the input and output of the gearbox which will hold the couplings. Basically the torque will be transmitted to the gearbox and from it by couplings
+
+If all obtained values are acceptable, we can proceed to official drawings and simulation of the gearbox.
