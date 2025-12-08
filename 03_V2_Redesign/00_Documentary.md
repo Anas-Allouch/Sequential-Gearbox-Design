@@ -20,7 +20,7 @@ the idea of this layout is to not have the input, output and idler gears all ali
 
 ## 2. Now that we have the number of teeth and the ratios of each gear, we can calculate the max speed of the car and the torque produced at wheel when each gear is engaged.  
 For this step, i assumed the final gear ratio, the differential ratio, is at 4.8 and i call it i_final in next calculations which is considered normal for the purpose of this gearbox.  
-And the tire we are using is 225/40 R18, so after calculations, the total tire diameter D = 637.2 mm = 0.6372 m; which will result in a tire circumference C_tire = 2 m
+And the tire we are using is 225/40 R18, so after calculations, the total tire diameter D = 637.2 mm = 0.6372 m; which will result in a tire circumference C_tire = 2 m  
 
 n_wheel = n_engine/(i_gear * i_final);  
 v = n_wheel * C_tire * 60/1000;  
@@ -45,6 +45,6 @@ After numerical application, it got the following results:
 | gear 4 |     141.8896    |        2228.4072       |
 | gear 5 |     204.3575    |        1547.2296       |
 
-These values are acceptable for the purpose of the gearbox that is being made.
+These values are acceptable for the purpose of the gearbox that is being made.  
 The goal is not to get that top end speed, but rather focus on that mid range speed, torque and acceleration.
 
