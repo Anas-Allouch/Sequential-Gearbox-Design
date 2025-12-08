@@ -49,3 +49,37 @@ After numerical application, it got the following results:
 These values are acceptable for the purpose of the gearbox that is being made.  
 The goal is not to get that top end speed, but rather focus on that mid range speed, torque and acceleration.
 
+---
+
+## 3. Bearings Check
+Now that we have our gears specs, we can proceed to sketch our shafts.  
+So for this step, i made a sketch of the shaft in order to be able to calculate the approximate diameters required and more importantly the bearings that will be installed.  
+To get the needed size of bearings, we have to calculate C10.  
+In order to be able to calculate C10, we need multiple values.  
+desired life in hours;  
+reliability;  
+time fraction per gear;  
+average rotation speed;  
+
+ - For reliability we will go with 0.9 because we are not making an industrial gearbox that will be running for a long time.
+ - time fraction per gear, we will assume a balanced mixed use between aggressive off road, rally-ish use and normal cruising. So time fraction per gear can be presented like the following
+| gear   |   time fraction |
+|--------|-----------------|
+|	gear 1 |       0.1       |
+|	gear 2 |       0.2       |
+|	gear 3 |       0.2       |
+|	gear 4 |       0.25      |
+|	gear 5 |       0.25      |
+ - the desired life of this gearbox is 40000 km, and assuming the average speed of the car is 60 km/h
+	we will get a total number life in hours = 40000/60 = 667 hours
+ - the average rotation speed of the engine is assumed at 4000 rpm, which is not low, but i will proceed with this number since the gearbox will be installed in a simple family car
+
+I will be using cylindrical roller bearings.  
+After calculation, we got a required C10 = 43.788 KN  
+This C10 is for input shaft, we don't really need to calculate C10 on output shaft since 4 out of 5 gears are rotating at a speed less than that of the input, the rotation speed is divided by the ratio of each gear.  
+No need to take reverse gear into consideration since it is rarely used in comparison with all other 5 gears, the time fraction will be at like 0.01 which is negligeable.  
+After consulting the catalogues, i chose to use the following bearings:
+- NUP 2206 ECP: bore diameter 30 mm - width 20 mm - load rating C = 55 KN  
+- NUP 207 ECP: bore diameter 35 mm - width 17 mm - load rating C = 56 KN  
+- NUP 208 ECP: bore diameter 40 mm - width 18 mm - load rating C = 62 KN  
+And no this over design is not for nothing, first it is for the shaft diameter requirement for later shaft fatigue analysis.
