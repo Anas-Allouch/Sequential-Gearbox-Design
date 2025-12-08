@@ -5,7 +5,7 @@ For this step, and after multiple checks and iterations, i got these gears setup
 
 | gear    | module | number of teeth - input gear | number of teeth - output gear |  ratio   | center distance [Nm] |
 |---------|--------|------------------------------|-------------------------------|----------|----------------------|
-| gear 1  | 3      |             25               |               63              |   2.5    |    132               |
+| gear 1  | 3      |             25               |               63              |   2.52   |    132               |
 | gear 2  | 3      |             31               |               57              |  1.8387  |    132               |
 | gear 3  | 3      |             37               |               51              |  1.378   |    132               |
 | gear 4  | 3      |             41               |               47              |  1.1463  |    132               |
