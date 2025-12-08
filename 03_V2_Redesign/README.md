@@ -1,17 +1,5 @@
 # Abandoning Initial Design (V1)
-The first design V1 was fully modeled and analyzed, but it reached a point where several key issues had no realistic or robust solutions within the existing architecture. Despite multiple refinements, the combination of geometric constraints, stress concentrations, assembly limitations, and interface problems (keys, dogs, shaft transitions, etc.) made it clear that continuing to iterate on the same base layout would not lead to a clean or reliable final design. For this reason, the V1 gearbox was OFFICIALLY ditched, and the project is now restarting from a fresh architecture (V2) in order to implement all lessons learned and integrate better design rules from the beginning.
-
-Here is a **clean, professional, bullet-proof README text** based on what you said — keeping your paragraph exactly as the introduction, and adding the short explanation about the documentary file.
-
-You can paste this directly into your README.md.
-
----
-
-# Abandoning Initial Design (V1)
-
-The first design (V1) was fully modeled and analyzed, but it reached a point where several key issues had no realistic or robust solutions within the existing architecture. Despite multiple refinements, the combination of geometric constraints, stress concentrations, assembly limitations, and interface problems (keys, dogs, shaft transitions, etc.) made it clear that continuing to iterate on the same base layout would not lead to a clean or reliable final design.
-
-For this reason, the V1 gearbox was **OFFICIALLY** abandoned, and the project is now restarting from a fresh architecture (V2) in order to implement all lessons learned and integrate better design rules from the beginning.
+The first design iteration was fully modeled and analyzed, but it reached a point where several key issues had no realistic or robust solutions within the existing architecture. Despite multiple refinements, the combination of geometric constraints, stress concentrations, assembly limitations, and interface problems (keys, dogs, shaft transitions, etc.) made it clear that continuing to iterate on the same base layout would not lead to a clean or reliable final design. For this reason, the V1 gearbox was OFFICIALLY ditched, and the project is now restarting from a fresh architecture (V2) in order to implement all lessons learned and integrate better design rules from the beginning.
 
 ---
 
