@@ -62,6 +62,9 @@ time fraction per gear;
 average rotation speed;  
 
  - For reliability we will go with 0.9 because we are not making an industrial gearbox that will be running for a long time.
+ - the desired life of this gearbox is 40000 km, and assuming the average speed of the car is 60 km/h
+	we will get a total number life in hours = 40000/60 = 667 hours
+ - the average rotation speed of the engine is assumed at 4000 rpm, which is not low, but i will proceed with this number since the gearbox will be installed in a simple family car
  - time fraction per gear, we will assume a balanced mixed use between aggressive off road, rally-ish use and normal cruising. So time fraction per gear can be presented like the following:  
 | gear   |   time fraction |
 |--------|-----------------|
@@ -70,9 +73,6 @@ average rotation speed;
 | gear 3 |       0.2       |
 | gear 4 |       0.25      |
 | gear 5 |       0.25      |
- - the desired life of this gearbox is 40000 km, and assuming the average speed of the car is 60 km/h
-	we will get a total number life in hours = 40000/60 = 667 hours
- - the average rotation speed of the engine is assumed at 4000 rpm, which is not low, but i will proceed with this number since the gearbox will be installed in a simple family car
 
 I will be using cylindrical roller bearings.  
 After calculation, we got a required C10 = 43.788 KN  
