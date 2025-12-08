@@ -26,14 +26,14 @@ n_wheel = n_engine/(i_gear * i_final);
 v = n_wheel * C_tire * 60/1000;
 T_wheel = T_in * i_gear * i_final * eff;
 
-> T_wheel: torque at wheel in [Nm];
-> T_in: torque from engine, which is constant at 450 Nm;
-> i_gear: ratio of the engaged gear at the moment
-> i_final: differential ratio, which is assumed as 4.8
-> eff: differential efficiency, which is basically the torque transmission efficiency of the bevel gearset inside the differential, assumed as 0.9
-> n_wheel: wheel's rpm at a given engine rpm
-> n_engine: the engine's rpm at a given moment, since we are looking for max speed, it is going to be the engine's rev limit, i will assume that engine red line is at 6500 rpm
-> C_tire: car tire's circumference
+> T_wheel: torque at wheel in [Nm]  
+> T_in: torque from engine, which is constant at 450 Nm  
+> i_gear: ratio of the engaged gear at the moment  
+> i_final: differential ratio, which is assumed as 4.8  
+> eff: differential efficiency, which is basically the torque transmission efficiency of the bevel gearset inside the differential, assumed as 0.9  
+> n_wheel: wheel's rpm at a given engine rpm  
+> n_engine: the engine's rpm at a given moment, since we are looking for max speed, it is going to be the engine's rev limit, i will assume that engine red line is at 6500 rpm  
+> C_tire: car tire's circumference  
 
 After numerical application, it got the following results:
 
