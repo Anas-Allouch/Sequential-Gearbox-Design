@@ -22,11 +22,11 @@ the idea of this layout is to not have the input, output and idler gears all ali
 For this step, i assumed the final gear ratio, the differential ratio, is at 4.8 and i call it i_final in next calculations which is considered normal for the purpose of this gearbox.
 And the tire we are using is 225/40 R18, so after calculations, the total tire diameter D = 637.2 mm = 0.6372 m; which will result in a tire circumference C_tire = 2 m
 
-  n_wheel = n_engine/(i_gear * i_final);
-	v = n_wheel * C_tire * 60/1000;
-	T_wheel = T_in * i_gear * i_final * eff;
-	
-  T_wheel: torque at wheel in [Nm]
+- n_wheel = n_engine/(i_gear * i_final);
+- v = n_wheel * C_tire * 60/1000;
+- T_wheel = T_in * i_gear * i_final * eff;
+
+	T_wheel: torque at wheel in [Nm]
 	T_in: torque from engine, which is constant at 450 Nm
 	i_gear: ratio of the engaged gear at the moment
 	i_final: differential ratio, which is assumed as 4.8
