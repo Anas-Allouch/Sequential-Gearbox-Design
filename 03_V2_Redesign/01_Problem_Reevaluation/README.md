@@ -13,7 +13,7 @@ For this step, and after multiple checks and iterations, i got these gears setup
 | reverse | 2.5    |             31               |               68              |  2.1935  |    132               |
 | idler   | 2.5    |             23               |               -               |    -     |     -                |
 
-Note: to meet the center distance requirement for the reverse gear, a special layout is made, this special layout is shown in "Reverse_gear_layout".
+Note: to meet the center distance requirement for the reverse gear, a special layout is made, this special layout is shown in "Reverse_Gear_Layout".
 the idea of this layout is to not have the input, output and idler gears all aligned.
 
 ---
