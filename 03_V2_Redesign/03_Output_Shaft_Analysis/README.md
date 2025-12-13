@@ -8,6 +8,7 @@ These pairs are grouped like the following:
  - Gear 2 with gear 3  
  - Gear 4 with gear 5  
 
+So for the first pair, I used the gear 1 moment diagrams. For second pair, I used the gear 2 moment diagrams. For the third pair, I used the gear 4 moment diagrams.  
 And each pair has a dog clutch mecanisme between them.
 
 Same as input shaft, an excel table includes all safety factors of different shaft fatigue analysis criterias.
