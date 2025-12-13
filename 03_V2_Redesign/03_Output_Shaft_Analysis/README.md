@@ -6,7 +6,7 @@ So each pair of gears, I took the one that is more critical and gives higher mom
 These pairs are grouped like the following:  
  - Reverse gear with gear 1  
  - Gear 2 with gear 3  
- - Gear 4 with gear 5
+ - Gear 4 with gear 5  
 And each pair has a dog clutch mecanisme between them.
 
 Same as input shaft, an excel table includes all safety factors of different shaft fatigue analysis criterias.
