@@ -19,7 +19,7 @@ where r_m is the mean radius of the dog engagement.
 
 The average bearing (crushing) stress on the engaged dog faces is:
 
-σ_c = Ft / (N_e · A_d)
+σ_c = Ft / (N_e * A_d)
 
 where:
 - A_d is contact area of one dog  
@@ -40,7 +40,7 @@ Each dog is also checked in shear at its root section.
 
 The average shear stress in one dog is:
 
-τ = Ft / (N_e · A_s)
+τ = Ft / (N_e * A_s)
 
 where:
 - A_s is the shear area of one dog (root cross-section)
