@@ -60,7 +60,7 @@ where r is the pitch circle spline radius.
 
 ---
 
-### 2. Bearing (Crushing) Stress on Spline Teeth
+### 2. Crushing Stress on Spline Teeth
 
 The average crushing stress on the loaded spline flanks is:
 
