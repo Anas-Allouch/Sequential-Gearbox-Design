@@ -42,7 +42,45 @@ n_crushing = σ_c,allow / σ_c
 
 σ_c,allow = 0.6 * S_y
 
-where the allowable crushing stress is based on the yield strength of the key material.
+---
+
+## Spline Failure Checks
+Splines are checked against bearing (crushing) failure of the spline teeth.  
+Shear of spline teeth is generally not governing and is neglected in standard design practice.  
 
 ---
 
+### 1. Tangential Force at Spline Radius
+
+The transmitted torque T produces a tangential force at the mean spline radius:
+
+Ft = T / r
+
+where r is the pitch circle spline radius.
+
+---
+
+### 2. Bearing (Crushing) Stress on Spline Teeth
+
+The average crushing stress on the loaded spline flanks is:
+
+σ_c = Ft / (N_e * h_e * l)
+
+where the effective number of teeth in contact is:
+
+N_eff ≈ 0.23 * N
+
+---
+
+### 3. Crushing Safety Factor
+
+The crushing safety factor is defined as:
+
+n_crushing = σ_c,allow / σ_c  
+
+σ_c,allow = 0.6 * S_y  
+
+where the allowable crushing stress is based on the yield strength of the weaker material  
+(shaft spline or hub spline).
+
+---
