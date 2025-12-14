@@ -1,6 +1,6 @@
 ## Dog Clutch Failure Checks
 
-Dog clutches are checked against bearing (crushing) failure of the dog faces and shear failure of the dogs.
+Dog clutches are checked against crushing failure of the dog faces and shear failure of the dogs.
 Torque transmission is assumed to occur through face contact between engaged dogs.
 
 ---
