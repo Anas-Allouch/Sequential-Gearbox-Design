@@ -11,7 +11,10 @@ Ft = 2 · T / d
 
 The average shear stress in the key is:
 
-τ = Ft / (b * l)
+τ = Ft / (b * l)  
+
+with b: key width
+     l: key length
 
 The shear safety factor is:
 
@@ -30,6 +33,7 @@ The same tangential force produces a bearing pressure between the key and the hu
 The average crushing stress is:
 
 σ_c = Ft / (h * l)  
+
 with h: contact height between key and shaft, or key and hub ( both must be checked )  
 
 The crushing safety factor is:
