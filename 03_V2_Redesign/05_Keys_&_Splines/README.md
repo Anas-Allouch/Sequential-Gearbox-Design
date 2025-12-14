@@ -68,7 +68,9 @@ The average crushing stress on the loaded spline flanks is:
 
 where the effective number of teeth in contact is:
 
-N_eff ≈ 0.3 * N
+N_e = 0.3 * N  
+
+And h_e is the height of the tooth ( distance from addendum to dedendum )  
 
 ---
 
