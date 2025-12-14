@@ -7,13 +7,13 @@ In the following, i will show the formulas used to calculate these safety factor
 
 The transmitted torque T produces a tangential force on the key:
 
-Ft = 2 · T / d
+Ft = 2 * T / d
 
 The average shear stress in the key is:
 
 τ = Ft / (b * l)  
 
-with b: key width
+with b: key width;  
      l: key length
 
 The shear safety factor is:
