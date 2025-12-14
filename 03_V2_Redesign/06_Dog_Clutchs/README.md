@@ -15,7 +15,7 @@ where r_m is the mean radius of the dog engagement.
 
 ---
 
-### 2. Bearing (Crushing) Failure of Dog Faces
+### 2. Crushing Failure of Dog Faces
 
 The average bearing (crushing) stress on the engaged dog faces is:
 
