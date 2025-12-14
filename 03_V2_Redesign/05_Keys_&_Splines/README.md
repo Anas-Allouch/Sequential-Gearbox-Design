@@ -52,7 +52,7 @@ Shear of spline teeth is generally not governing and is neglected in standard de
 
 ### 1. Tangential Force at Spline Radius
 
-The transmitted torque T produces a tangential force at the mean spline radius:
+The transmitted torque T produces a tangential force at the spline radius:
 
 Ft = T / r
 
@@ -68,7 +68,7 @@ The average crushing stress on the loaded spline flanks is:
 
 where the effective number of teeth in contact is:
 
-N_eff ≈ 0.23 * N
+N_eff ≈ 0.3 * N
 
 ---
 
